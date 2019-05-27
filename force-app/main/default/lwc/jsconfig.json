@@ -8,6 +8,27 @@
             ],
             "c/myFirstWebComponent": [
                 "myFirstWebComponent/myFirstWebComponent.js"
+            ],
+            "c/bearList": [
+                "../../../../ursus-park-app/main/default/lwc/bearList/bearList.js"
+            ],
+            "c/bearLocation": [
+                "../../../../ursus-park-app/main/default/lwc/bearLocation/bearLocation.js"
+            ],
+            "c/bearMap": [
+                "../../../../ursus-park-app/main/default/lwc/bearMap/bearMap.js"
+            ],
+            "c/bearSupervisor": [
+                "../../../../ursus-park-app/main/default/lwc/bearSupervisor/bearSupervisor.js"
+            ],
+            "c/bearTile": [
+                "../../../../ursus-park-app/main/default/lwc/bearTile/bearTile.js"
+            ],
+            "c/helloWebComponent": [
+                "../../../../ursus-park-app/main/default/lwc/helloWebComponent/helloWebComponent.js"
+            ],
+            "c/pubsub": [
+                "../../../../ursus-park-app/main/default/lwc/pubsub/pubsub.js"
             ]
         }
     },

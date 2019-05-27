@@ -6,3 +6,6 @@ package.xml
 **/jsconfig.json
 
 **/.eslintrc.json
+**/Admin.profile-meta.xml
+**/Account/
+**/flexipages/Account_Record_Page.flexipage-meta.xml
